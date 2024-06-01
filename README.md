@@ -1,2 +1,8 @@
-# BruteForcePasswordCracker
-Saw this on youtube thought it was cool basically goes trough a list of passwords untill it guesses the right one
+#RetroCalculator
+This is a retro-themed simple calculator iOS application.
+
+What I Learned
+Write simple math operations with Swift
+Integrate UIButtons and sounds
+Design a UI using image assets with UIStackView
+Practice using IBActions and IBOutlets
