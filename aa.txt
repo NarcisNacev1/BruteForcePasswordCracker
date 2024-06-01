@@ -1,0 +1,3 @@
+
+python ImageTOASCII.py --file C:\Users\narci\PycharmProjects\imageToASCII\PIL\image.jpg
+ --scale 0.5 --cols 100 --out ascii_art.txt --morelevels
